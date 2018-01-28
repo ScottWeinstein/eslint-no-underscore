@@ -20,7 +20,7 @@
     "url": "https://github.com/ScottWeinstein/eslint-no-underscore/issues"
   },
   "devDependencies": {
-    "eslint": "~0.4.0",
-    "eslint-tester": "0.0.3"
+    "eslint": "~4.16.0",
+    "eslint-tester": "0.8.2"
   }
 }
